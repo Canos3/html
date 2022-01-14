@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+   
+}
+.site-header {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+.site-nav{
+    font-family: ff-info-text-web-pro,sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    
+    
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 30px;
+}
+a:hover{
+    color: red;
+}
