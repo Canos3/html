@@ -16,10 +16,14 @@ a{
     text-decoration: none;
     color: black;
     margin: 30px;
+    
+    
+
 }
 a:hover{
     color: red;
 }
+
 .web-image img{
 width: 1350px;
 height: 760px;
@@ -56,4 +60,15 @@ margin-left: -10px;
      font-size: 20px;
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      font-style: italic;
+ }
+ .texter{
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 15px;
+ }
+ .qwerty{
+     padding-left: 20px;
+ }
+ .zone{
+     padding-left: 20px;
  }
