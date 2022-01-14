@@ -32,3 +32,17 @@ margin-left: -10px;
     text-transform: uppercase;
     font-family: monospace;
 }
+.textup{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 250px;
+    font-family: cursive;
+}
+.thick{
+    color: black;
+    width: 50px;
+}
+.mop{
+    font-family: monospace;
+    
+}
