@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box;
-   
 }
 .site-header {
     text-align: center;
@@ -12,9 +11,6 @@
     font-family: ff-info-text-web-pro,sans-serif;
     text-align: center;
     text-transform: uppercase;
-    
-    
-   
 }
 a{
     text-decoration: none;
@@ -23,4 +19,16 @@ a{
 }
 a:hover{
     color: red;
+}
+.web-image img{
+width: 1600px;
+height: 760px;
+background-size: 100%;
+margin-left: -10px;
+}
+.text{
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family: monospace;
 }
